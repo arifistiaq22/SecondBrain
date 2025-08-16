@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Design of VLSI Systems - Linda/1. Introduction/1.1 Integrated Circuit Trends.md",
+                "file": "Books/Design of VLSI Systems - Linda/1. Introduction/1.2 Choice of Technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Integrated Circuit Trends"
+              "title": "1.2 Choice of Technology"
             }
           }
         ]
@@ -184,10 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5038613d4b300b28",
+  "active": "03306428d6871804",
   "lastOpenFiles": [
-    "Books/Design of VLSI Systems - Linda/1. Introduction/1.2 Choice of Technology for VLSI.md",
+    "Books/Design of VLSI Systems - Linda/1. Introduction/1.2 Choice of Technology.md",
+    "Moore's Law.md",
     "Books/Design of VLSI Systems - Linda/1. Introduction/1.1 Integrated Circuit Trends.md",
+    "NMOS.md",
+    "Books/Design of VLSI Systems - Linda/1. Introduction/1.2 Choice of Technology for VLSI.md",
     "System-on-a-Chip (SoC).md",
     "Barron's corollary to Moore's second law.md",
     "Books/Design of VLSI Systems - Linda/Index.md",
